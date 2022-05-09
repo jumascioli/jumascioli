@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Juliana Mascioli</h1>
 <h3 align="center">A frontend developer from Brazil in training</h3>
 
-- 🌱 I’m currently learning **React, Typescript, QA**
+- 🌱 I’m currently learning **React, Typescript, QA**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/jumascioli](https://github.com/jumascioli)
+- 👨‍💻 All of my projects are available at [https://github.com/jumascioli](https://github.com/jumascioli).
 
-- 💬 Ask me about **math, html, css**
+- 💬 Ask me about **math, html, css**.
 
-- 📫 How to reach me **jumascioli@gmail.com**
+- 📫 How to reach me **jumascioli@gmail.com**.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/juliana-mascioli-b4a96049/](https://www.linkedin.com/in/juliana-mascioli-b4a96049/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/juliana-mascioli-b4a96049/](https://www.linkedin.com/in/juliana-mascioli-b4a96049/).
 
 - ⚡ Fun fact **I have a horse.**
 

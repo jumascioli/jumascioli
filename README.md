@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jumascioli](https://github.com/jumascioli).
 
-- 💬 Ask me about **math, html, css**.
+- 💬 Ask me about **math, html, css, testes manuais**.
 
 - 📫 How to reach me **jumascioli@gmail.com**.
 
